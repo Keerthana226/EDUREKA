@@ -1,1 +1,2 @@
 # EDUREKA
+today is friday
